@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "dll": "^0.2.0",
+    "embedo": "^1.14.0",
+    "env": "^0.0.2",
+    "iframe": "^1.0.0",
+    "normalize": "^0.3.1",
+    "normalizer": "^1.2.7",
+    "oembed": "^0.1.2",
+    "popover": "^2.4.1",
+    "postcss": "^8.4.19"
+  }
+}
